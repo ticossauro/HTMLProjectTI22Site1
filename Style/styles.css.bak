@@ -1,0 +1,9 @@
+body {
+    background-color: #8b2838;
+  }
+  h1 {
+    color: rgb(255, 255, 255);
+  }
+  p {
+    color: cyan;
+  }

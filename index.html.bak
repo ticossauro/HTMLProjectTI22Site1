@@ -1,0 +1,30 @@
+<DOCTYPE html>
+	<html lang="pt-br">
+	
+<head> <!--cabeçalho-->
+	<link rel="stylesheet" href="Style/styles.css">
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title> Patchouli </title>
+	<link rel="shortcut icon" href="Images/icon.png">
+	
+</head>
+
+
+<body>
+	<h1><center> Touhou 12 fritando PC????<center></h1>
+	<center><img src="Images/touhou12pc.png" width=600 height=450></center>
+	<hr>
+	<h2><center> Joga NOVEC ae rápido<center></h2>
+	<a href="https://store.steampowered.com/app/1100160/__Undefined_Fantastic_Object/">
+	<center><button>E já compra ele</button><center/>
+	</a>
+	<p style= "font-size:xx-large"><font-family:>
+	<img src="Images/skeleton-dance-skeletons.gif">
+	<br>
+	東方星蓮船 〜 Undefined Fantastic Object. 
+	</font>
+	</p>
+</body>
+
+</html>
